@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstudoLista.iml" filepath="$PROJECT_DIR$/EstudoLista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringutils/Stringutils.iml" filepath="$PROJECT_DIR$/Stringutils/Stringutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-lang3-3.7/commons-lang3-3.7.iml" filepath="$PROJECT_DIR$/commons-lang3-3.7/commons-lang3-3.7.iml" />
+    </modules>
+  </component>
+</project>
